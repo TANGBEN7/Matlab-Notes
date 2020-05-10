@@ -87,6 +87,7 @@ grid on;
 - 调整坐标纸density
 ```
 set(gca, 'XMinorGrid','on');
+set(gca, 'YMinorGrid','on');
 ```
 
 
